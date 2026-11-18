@@ -1,5 +1,5 @@
 {
-    "name": "Kettle",
+    "name": "DownloadTask",
     "dependencies" : [
         "boost-program-options"
     ]
